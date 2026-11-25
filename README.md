@@ -7,9 +7,8 @@ A list of MTProto proxies verified from Russia, refreshed automatically **every 
   Telegram and into other proxy lists.
 - The first line is our own node `lemonmoss45.mywire.org:8443`. It carries the @LoviProxy channel tag:
   when you connect through it, the channel is pinned to the top of your chat list.
-- Only proxies that pass the checks at refresh time are listed: they answer a real MTProto handshake
-  from Novosibirsk and are reachable from Russian home-ISP networks (Rostelecom, MTS, ER-Telecom,
-  Beeline, MGTS).
+- The list includes only proxies that pass the verification during the update: they respond to a
+  genuine MTProto handshake request from Russia and are accessible from Russian home networks.
 - Channel: [@LoviProxy](https://t.me/LoviProxy) — a new verified proxy every hour, dead ones marked
   `#offline`.
 
