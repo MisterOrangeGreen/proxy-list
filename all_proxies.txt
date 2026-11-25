@@ -1,5 +1,8 @@
 https://t.me/proxy?server=lemonmoss45.mywire.org&port=8443&secret=dd70746ef0b2d5c1b9cb71566e646280d2
-https://t.me/proxy?server=n391810.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-https://t.me/proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574
 https://t.me/proxy?server=maposu18.birchquay.xyz&port=443&secret=ee5e0432a980a8a58aebaa40580866bbc1786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=losuny65.quietfjord.click&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=espress0-macch1ato-p0r-favor3.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=pinklove.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=m4in-fr4mes-are-comp1ex-but-cut3.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+https://t.me/proxy?server=who-are-you.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
