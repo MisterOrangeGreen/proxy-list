@@ -1,4 +1,5 @@
 https://t.me/proxy?server=lemonmoss45.mywire.org&port=8443&secret=dd70746ef0b2d5c1b9cb71566e646280d2
-https://t.me/proxy?server=62.113.104.219&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275
-https://t.me/proxy?server=dune.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e652e76656c76657477696e646f772e6363
+https://t.me/proxy?server=sukapo16.foxglade.xyz&port=8443&secret=ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275
+https://t.me/proxy?server=mitoka72.tidelark.cc&port=8443&secret=ee133b6403cdfe6f1fbc309e704c14f2fc786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=www.zone51.website&port=443&secret=ee3c3e7fd2980e2b3c5d8ffaf8bf4caffa7777772e7a6f6e6535312e77656273697465
 https://t.me/proxy?server=ivoryazure.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275
