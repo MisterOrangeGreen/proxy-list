@@ -1,1 +1,4 @@
 https://t.me/proxy?server=lemonmoss45.mywire.org&port=8443&secret=dd70746ef0b2d5c1b9cb71566e646280d2
+https://t.me/proxy?server=cdn.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
+https://t.me/proxy?server=toka23.kelpmoor.xyz&port=8443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db706574726f766963682e7275
+https://t.me/proxy?server=shared4.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
