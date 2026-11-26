@@ -1,4 +1,3 @@
 https://t.me/proxy?server=lemonmoss45.mywire.org&port=8443&secret=dd70746ef0b2d5c1b9cb71566e646280d2
-https://t.me/proxy?server=n391810.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-https://t.me/proxy?server=rile33.fernlark.xyz&port=8443&secret=eee2e4aa087800d8ad12ebf6dfeb4cc97172696c6533332e6665726e6c61726b2e78797a
-https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee7995b4c3c0973002082a77098bed4177075622e756c7472612d666173742e6363
+https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
