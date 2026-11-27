@@ -1,1 +1,5 @@
 https://t.me/proxy?server=lemonmoss45.mywire.org&port=8443&secret=dd70746ef0b2d5c1b9cb71566e646280d2
+https://t.me/proxy?server=ember.ashwren.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275
+https://t.me/proxy?server=juniperlight.ashwren.xyz&port=8443&secret=eea6765d2e85cb4496f4e0fd16b26b94c4617669746f2e7275
+https://t.me/proxy?server=forest.sorrelbay.xyz&port=8443&secret=eee788e53ce009b9fbd93be151fb3c966762726f777365722e79616e6465782e7275
+https://t.me/proxy?server=zephyrotter.sorrelbay.xyz&port=8443&secret=eee788e53ce009b9fbd93be151fb3c96676f7a6f6e2e7275
